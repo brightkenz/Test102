@@ -1,0 +1,19 @@
+/*!
+Theme Name: Arcade Basic child
+Theme URI: http://themes.bavotasan.com/themes/arcade/
+Author: Bright Kenz
+Author URI: http://bavotasan.com/
+Description: Create a truly unique design with Arcade, a lightweight and fully responsive HTML5 theme. Use the theme customizer to add your own header image, page layout, site width and more. Distinguish each post with one of the eight supported post formats, such as: Video, Image, Aside, Status, Audio, Quote, Link and Gallery. Install JetPack to display each of your galleries through a tiled view and jQuery carousel. Compatible with bbPress, BuddyPress, WPML & Woocommerce. Uses Google Fonts for improved typeface readability and works perfectly in desktop browsers, tablets and handheld devices.
+Version: 0.1
+Template: arcade-basic 
+*/
+/*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+
+
+@import url("../arcade-basic/style.css");
+
+
+.counters{
+margin: 0px -20px 0px -20px;
+background-color: black;
+}
